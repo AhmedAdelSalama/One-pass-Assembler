@@ -4,5 +4,6 @@
 # But not .cpp / .h
 !*.cpp
 !*.h
+!*.md
 
 !.gitignore
